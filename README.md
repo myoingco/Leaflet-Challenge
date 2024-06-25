@@ -22,13 +22,19 @@ Prior to execution, you must have VScode. You must also have the necessary Start
     
 ### Create the Earthquake Visualization
 
+![image](https://github.com/myoingco/Leaflet-Challenge/assets/160566342/2b43eb82-30d1-4f0f-a8b6-b34108d77242)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 1) Get your dataset. To do so, follow these steps:
 
     - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
+  
+![image](https://github.com/myoingco/Leaflet-Challenge/assets/160566342/68c09ba4-5e20-4b36-a6c6-10c06442802c)
 
     - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+
+![image](https://github.com/myoingco/Leaflet-Challenge/assets/160566342/e0ca8174-c7d7-492d-9437-85f2bd9ff9d9)
 
 2) Import and visualize the data by doing the following:
 
